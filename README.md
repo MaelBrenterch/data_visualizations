@@ -31,4 +31,6 @@ https://www.spain.info/fr/top/monuments-incontournables/
 
 world tourism organization: https://www.unwto.org/tourism-statistics/key-tourism-statistics
 
-World Development Indicators: https://data.worldbank.org/indicator/ST.INT.DPRT/
+World Development Indicators: 
+  * https://data.worldbank.org/indicator/ST.INT.DPRT/
+  * https://data.worldbank.org/indicator/ST.INT.ARVL
