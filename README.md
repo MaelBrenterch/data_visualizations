@@ -8,7 +8,6 @@ TripAdvisor website:
   * https://www.tripadvisor.fr/Attractions-g294291-Activities-c47-Chile.html
   * https://www.tripadvisor.fr/Attractions-g294196-Activities-c47-South_Korea.html
   * https://www.tripadvisor.fr/Attractions-g294200-Activities-c47-Egypt.html
-  * https://www.tripadvisor.fr/Attractions-g294012-Activities-c47-United_Arab_Emirates.html
   * https://www.tripadvisor.fr/Attractions-g189398-Activities-c47-Greece.html
   * https://www.tripadvisor.fr/Attractions-g292002-Activities-c47-Guatemala.html
   * https://www.tripadvisor.fr/Attractions-g293860-Activities-c47-India.html
@@ -16,7 +15,6 @@ TripAdvisor website:
   * https://www.tripadvisor.fr/Attractions-g293977-Activities-c47-Israel.html
   * https://www.tripadvisor.fr/Attractions-g187768-Activities-c47-Italy.html
   * https://www.tripadvisor.fr/Attractions-g294232-Activities-c47-Japan.html
-  * https://www.tripadvisor.fr/Attractions-g293985-Activities-c47-Jordan.html
   * https://www.tripadvisor.fr/Attractions-g150768-Activities-c47-Mexico.html
   * https://www.tripadvisor.fr/Attractions-g294311-Activities-c47-Peru.html
   * https://www.tripadvisor.fr/Attractions-g186216-Activities-c47-United_Kingdom.html
