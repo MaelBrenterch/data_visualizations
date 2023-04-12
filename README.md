@@ -32,3 +32,4 @@ world tourism organization: https://www.unwto.org/tourism-statistics/key-tourism
 World Development Indicators: 
   * https://data.worldbank.org/indicator/ST.INT.DPRT/
   * https://data.worldbank.org/indicator/ST.INT.ARVL
+icone: https://www.flaticon.com/fr/icones-gratuites/voyage
