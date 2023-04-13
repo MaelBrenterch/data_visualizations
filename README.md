@@ -36,30 +36,30 @@ World Development Indicators:
 icone: https://www.flaticon.com/fr/icones-gratuites/voyage
 
 food:
-  *Zimbabwe: https://travelfoodatlas.com/zimbabwe-foods
-  *Zambia: https://theculturetrip.com/africa/zambia/articles/9-traditional-foods-you-must-eat-while-youre-in-zambia/
-  *UAE : https://www.dayoutdubai.ae/blog/safari/traditional-food-of-uae/
-  *Peru: https://theculturetrip.com/south-america/peru/articles/10-traditional-dishes-you-have-to-try-in-peru/
-  *Italy: https://edition.cnn.com/travel/article/classic-italian-dishes/index.html
-  *Israel: https://medmunch.com/israel-food/
-  *India: https://theculturetrip.com/asia/india/articles/10-traditional-indian-dishes-you-need-to-try/
-  *Guatemala: https://theculturetrip.com/central-america/guatemala/articles/the-10-most-traditional-dishes-from-guatemala/
-  *Germany: https://www.swedishnomad.com/traditional-german-food/
-  *Chili: https://theculturetrip.com/south-america/chile/articles/10-traditional-chilean-dishes-you-need-to-try/
-  *Brazil: https://theculturetrip.com/south-america/brazil/articles/the-20-quintessential-dishes-to-eat-in-brazil/
-  *Vietnam: https://theculturetrip.com/asia/vietnam/articles/top-10-traditional-vietnamese-dishes-you-need-to-try/
-  *Thailand: https://www.bbcgoodfood.com/howto/guide/top-10-dishes-try-thailand
-  *Greece: https://www.bbcgoodfood.com/howto/guide/top-10-dishes-try-greece
-  *Indonesia: https://theculturetrip.com/asia/indonesia/articles/21-best-dishes-try-indonesia/
-  *Combodia: https://theculturetrip.com/asia/cambodia/articles/the-21-best-dishes-in-cambodia/
-  *USA: https://www.usa-en-liberte.com/conseils-voyage/culture-cuisine/top-10-plats-americains
-  *Japan: https://universdujapon.com/blogs/japon/plat-traditionnel-japonais
-  *China: https://www.voyageschine.com/culture/plats-traditionnels-chinois.htm
-  *Mexico: https://generationvoyage.fr/specialites-culinaires-mexicaines/
-  *France: https://www.france-hotel-guide.com/fr/blog/plats-francais-typiques/
-  *Australia: https://www.aus-visa.org/blog/les-10-plats-traditionnels-les-plus-populaires-daustralie/
-  *Egypt: https://www.egypte-voyage.net/decouvrez-10-plats-egyptiens-delicieux-et-uniques/
-  *UK: https://www.ef.fr/blog/language/7-specialites-a-gouter-absolument-au-royaume-uni/
-  *Turquie: https://www.leblogdistanbul.com/2021/01/20-plats-turcs-a-tester-absolument-en-turquie/
-  *South Korea: https://generationvoyage.fr/specialites-culinaires-coreennes/
-  *Spain: https://theculturetrip.com/europe/spain/articles/spains-top-10-traditional-dishes-you-need-to-try/
+  * Zimbabwe: https://travelfoodatlas.com/zimbabwe-foods
+  * Zambia: https://theculturetrip.com/africa/zambia/articles/9-traditional-foods-you-must-eat-while-youre-in-zambia/
+  * UAE : https://www.dayoutdubai.ae/blog/safari/traditional-food-of-uae/
+  * Peru: https://theculturetrip.com/south-america/peru/articles/10-traditional-dishes-you-have-to-try-in-peru/
+  * Italy: https://edition.cnn.com/travel/article/classic-italian-dishes/index.html
+  * Israel: https://medmunch.com/israel-food/
+  * India: https://theculturetrip.com/asia/india/articles/10-traditional-indian-dishes-you-need-to-try/
+  * Guatemala: https://theculturetrip.com/central-america/guatemala/articles/the-10-most-traditional-dishes-from-guatemala/
+  * Germany: https://www.swedishnomad.com/traditional-german-food/
+  * Chili: https://theculturetrip.com/south-america/chile/articles/10-traditional-chilean-dishes-you-need-to-try/
+  * Brazil: https://theculturetrip.com/south-america/brazil/articles/the-20-quintessential-dishes-to-eat-in-brazil/
+  * Vietnam: https://theculturetrip.com/asia/vietnam/articles/top-10-traditional-vietnamese-dishes-you-need-to-try/
+  * Thailand: https://www.bbcgoodfood.com/howto/guide/top-10-dishes-try-thailand
+  * Greece: https://www.bbcgoodfood.com/howto/guide/top-10-dishes-try-greece
+  * Indonesia: https://theculturetrip.com/asia/indonesia/articles/21-best-dishes-try-indonesia/
+  * Combodia: https://theculturetrip.com/asia/cambodia/articles/the-21-best-dishes-in-cambodia/
+  * USA: https://www.usa-en-liberte.com/conseils-voyage/culture-cuisine/top-10-plats-americains
+  * Japan: https://universdujapon.com/blogs/japon/plat-traditionnel-japonais
+  * China: https://www.voyageschine.com/culture/plats-traditionnels-chinois.htm
+  * Mexico: https://generationvoyage.fr/specialites-culinaires-mexicaines/
+  * France: https://www.france-hotel-guide.com/fr/blog/plats-francais-typiques/
+  * Australia: https://www.aus-visa.org/blog/les-10-plats-traditionnels-les-plus-populaires-daustralie/
+  * Egypt: https://www.egypte-voyage.net/decouvrez-10-plats-egyptiens-delicieux-et-uniques/
+  * UK: https://www.ef.fr/blog/language/7-specialites-a-gouter-absolument-au-royaume-uni/
+  * Turquie: https://www.leblogdistanbul.com/2021/01/20-plats-turcs-a-tester-absolument-en-turquie/
+  * South Korea: https://generationvoyage.fr/specialites-culinaires-coreennes/
+  * Spain: https://theculturetrip.com/europe/spain/articles/spains-top-10-traditional-dishes-you-need-to-try/
